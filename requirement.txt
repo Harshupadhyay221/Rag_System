@@ -1,0 +1,16 @@
+pypdf
+pymupdf
+langchain-community
+langchain-core
+tiktoken
+sentence-transformers
+python-dotenv
+faiss-cpu
+openai
+streamlit
+python-dotenv
+chromadb
+ipykernel
+langchain-huggingface
+fastapi
+pdfplumber
