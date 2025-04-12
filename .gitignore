@@ -1,0 +1,11 @@
+# Ignore Vector-DB directory
+Vector-DB/
+
+# Ignore environment file
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore rag_system directory
+rag_system/
